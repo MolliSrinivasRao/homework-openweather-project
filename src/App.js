@@ -6,7 +6,13 @@ function App() {
     <div className="App">
       <div>
         <h1>HOME WORK OPENWEATHER PROJECT USING API</h1>
-        <h2>reff</h2>
+      </div>
+      <div>
+        <div>
+          <div>
+            <h1>qwerty</h1>
+          </div>
+        </div>
       </div>
     </div>
   );
